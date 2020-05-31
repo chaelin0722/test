@@ -1,6 +1,8 @@
 #include<iostream>
 #include<algorithm>
+
 using namespace std;
+
 int main(void){
 
 	int a[10],b[10];
